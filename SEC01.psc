@@ -1,5 +1,6 @@
 //00594364 Santiago Loredo Cuevas
-
+//Ing en TI
+//Algoritmo que suma dos números
 Algoritmo SEC01
 	Definir A, B, C Como Enteros;
 	
@@ -12,3 +13,4 @@ Algoritmo SEC01
 	Imprimir C
 	
 FinAlgoritmo
+
