@@ -1,3 +1,6 @@
+//00594364 Santiago Loredo Cuevas
+//Ing en TI
+//Algoritmo que calcula el área de un rectángulo.
 Algoritmo SEC05
 	Definir Largo, Ancho Como Reales;
 	
@@ -8,3 +11,4 @@ Algoritmo SEC05
 	
 	Escribir "El area del rectangulo es: ", Largo * Ancho;
 FinAlgoritmo
+
