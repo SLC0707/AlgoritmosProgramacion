@@ -1,3 +1,6 @@
+//00594364 Santiago Loredo Cuevas
+//Ing en TI
+//Algoritmo que suma, resta, multiplicación y división de dos números enteros.
 Algoritmo SEC04
 	Definir A, B Como Enteros
 	Definir S, R, M Como Enteros
@@ -18,3 +21,4 @@ Algoritmo SEC04
 	Escribir "La multiplicacion es: " M;
 	Escribir "La division es; " D;
 FinAlgoritmo
+
