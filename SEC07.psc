@@ -1,3 +1,6 @@
+//00594364 Santiago Loredo Cuevas
+//Ing en TI
+//Algoritmo que calcula la longitud y el área de una circunferencia.
 Algoritmo SEC07
 	Definir Radio Como Real
 	
@@ -8,3 +11,4 @@ Algoritmo SEC07
 	Escribir "La longitud de una circunferencia es: ", 2 * PI * Radio
 	
 FinAlgoritmo
+
